@@ -1,0 +1,494 @@
+[
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\Baddie.cpp.obj -c \"D:\\Project\\My Mario\\src\\Baddie.cpp\"",
+  "file": "D:/Project/My Mario/src/Baddie.cpp",
+  "output": "CMakeFiles/Mario.dir/src/Baddie.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\BanzaiBill.cpp.obj -c \"D:\\Project\\My Mario\\src\\BanzaiBill.cpp\"",
+  "file": "D:/Project/My Mario/src/BanzaiBill.cpp",
+  "output": "CMakeFiles/Mario.dir/src/BanzaiBill.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\Block.cpp.obj -c \"D:\\Project\\My Mario\\src\\Block.cpp\"",
+  "file": "D:/Project/My Mario/src/Block.cpp",
+  "output": "CMakeFiles/Mario.dir/src/Block.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\BlueKoopaTroopa.cpp.obj -c \"D:\\Project\\My Mario\\src\\BlueKoopaTroopa.cpp\"",
+  "file": "D:/Project/My Mario/src/BlueKoopaTroopa.cpp",
+  "output": "CMakeFiles/Mario.dir/src/BlueKoopaTroopa.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\BobOmb.cpp.obj -c \"D:\\Project\\My Mario\\src\\BobOmb.cpp\"",
+  "file": "D:/Project/My Mario/src/BobOmb.cpp",
+  "output": "CMakeFiles/Mario.dir/src/BobOmb.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\BulletBill.cpp.obj -c \"D:\\Project\\My Mario\\src\\BulletBill.cpp\"",
+  "file": "D:/Project/My Mario/src/BulletBill.cpp",
+  "output": "CMakeFiles/Mario.dir/src/BulletBill.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\BuzzyBeetle.cpp.obj -c \"D:\\Project\\My Mario\\src\\BuzzyBeetle.cpp\"",
+  "file": "D:/Project/My Mario/src/BuzzyBeetle.cpp",
+  "output": "CMakeFiles/Mario.dir/src/BuzzyBeetle.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\CloudBlock.cpp.obj -c \"D:\\Project\\My Mario\\src\\CloudBlock.cpp\"",
+  "file": "D:/Project/My Mario/src/CloudBlock.cpp",
+  "output": "CMakeFiles/Mario.dir/src/CloudBlock.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\Coin.cpp.obj -c \"D:\\Project\\My Mario\\src\\Coin.cpp\"",
+  "file": "D:/Project/My Mario/src/Coin.cpp",
+  "output": "CMakeFiles/Mario.dir/src/Coin.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\CollisionProbe.cpp.obj -c \"D:\\Project\\My Mario\\src\\CollisionProbe.cpp\"",
+  "file": "D:/Project/My Mario/src/CollisionProbe.cpp",
+  "output": "CMakeFiles/Mario.dir/src/CollisionProbe.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\CourseClearToken.cpp.obj -c \"D:\\Project\\My Mario\\src\\CourseClearToken.cpp\"",
+  "file": "D:/Project/My Mario/src/CourseClearToken.cpp",
+  "output": "CMakeFiles/Mario.dir/src/CourseClearToken.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\ExclamationBlock.cpp.obj -c \"D:\\Project\\My Mario\\src\\ExclamationBlock.cpp\"",
+  "file": "D:/Project/My Mario/src/ExclamationBlock.cpp",
+  "output": "CMakeFiles/Mario.dir/src/ExclamationBlock.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\EyesClosedBlock.cpp.obj -c \"D:\\Project\\My Mario\\src\\EyesClosedBlock.cpp\"",
+  "file": "D:/Project/My Mario/src/EyesClosedBlock.cpp",
+  "output": "CMakeFiles/Mario.dir/src/EyesClosedBlock.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\EyesOpenedBlock.cpp.obj -c \"D:\\Project\\My Mario\\src\\EyesOpenedBlock.cpp\"",
+  "file": "D:/Project/My Mario/src/EyesOpenedBlock.cpp",
+  "output": "CMakeFiles/Mario.dir/src/EyesOpenedBlock.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\FireFlower.cpp.obj -c \"D:\\Project\\My Mario\\src\\FireFlower.cpp\"",
+  "file": "D:/Project/My Mario/src/FireFlower.cpp",
+  "output": "CMakeFiles/Mario.dir/src/FireFlower.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\Fireball.cpp.obj -c \"D:\\Project\\My Mario\\src\\Fireball.cpp\"",
+  "file": "D:/Project/My Mario/src/Fireball.cpp",
+  "output": "CMakeFiles/Mario.dir/src/Fireball.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\FlyingGoomba.cpp.obj -c \"D:\\Project\\My Mario\\src\\FlyingGoomba.cpp\"",
+  "file": "D:/Project/My Mario/src/FlyingGoomba.cpp",
+  "output": "CMakeFiles/Mario.dir/src/FlyingGoomba.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\GameWindow.cpp.obj -c \"D:\\Project\\My Mario\\src\\GameWindow.cpp\"",
+  "file": "D:/Project/My Mario/src/GameWindow.cpp",
+  "output": "CMakeFiles/Mario.dir/src/GameWindow.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\GameWorld.cpp.obj -c \"D:\\Project\\My Mario\\src\\GameWorld.cpp\"",
+  "file": "D:/Project/My Mario/src/GameWorld.cpp",
+  "output": "CMakeFiles/Mario.dir/src/GameWorld.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\GlassBlock.cpp.obj -c \"D:\\Project\\My Mario\\src\\GlassBlock.cpp\"",
+  "file": "D:/Project/My Mario/src/GlassBlock.cpp",
+  "output": "CMakeFiles/Mario.dir/src/GlassBlock.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\Goomba.cpp.obj -c \"D:\\Project\\My Mario\\src\\Goomba.cpp\"",
+  "file": "D:/Project/My Mario/src/Goomba.cpp",
+  "output": "CMakeFiles/Mario.dir/src/Goomba.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\GreenKoopaTroopa.cpp.obj -c \"D:\\Project\\My Mario\\src\\GreenKoopaTroopa.cpp\"",
+  "file": "D:/Project/My Mario/src/GreenKoopaTroopa.cpp",
+  "output": "CMakeFiles/Mario.dir/src/GreenKoopaTroopa.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\InvisibleBlock.cpp.obj -c \"D:\\Project\\My Mario\\src\\InvisibleBlock.cpp\"",
+  "file": "D:/Project/My Mario/src/InvisibleBlock.cpp",
+  "output": "CMakeFiles/Mario.dir/src/InvisibleBlock.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\Item.cpp.obj -c \"D:\\Project\\My Mario\\src\\Item.cpp\"",
+  "file": "D:/Project/My Mario/src/Item.cpp",
+  "output": "CMakeFiles/Mario.dir/src/Item.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\JumpingPiranhaPlant.cpp.obj -c \"D:\\Project\\My Mario\\src\\JumpingPiranhaPlant.cpp\"",
+  "file": "D:/Project/My Mario/src/JumpingPiranhaPlant.cpp",
+  "output": "CMakeFiles/Mario.dir/src/JumpingPiranhaPlant.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\Map.cpp.obj -c \"D:\\Project\\My Mario\\src\\Map.cpp\"",
+  "file": "D:/Project/My Mario/src/Map.cpp",
+  "output": "CMakeFiles/Mario.dir/src/Map.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\Mario.cpp.obj -c \"D:\\Project\\My Mario\\src\\Mario.cpp\"",
+  "file": "D:/Project/My Mario/src/Mario.cpp",
+  "output": "CMakeFiles/Mario.dir/src/Mario.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\MessageBlock.cpp.obj -c \"D:\\Project\\My Mario\\src\\MessageBlock.cpp\"",
+  "file": "D:/Project/My Mario/src/MessageBlock.cpp",
+  "output": "CMakeFiles/Mario.dir/src/MessageBlock.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\MontyMole.cpp.obj -c \"D:\\Project\\My Mario\\src\\MontyMole.cpp\"",
+  "file": "D:/Project/My Mario/src/MontyMole.cpp",
+  "output": "CMakeFiles/Mario.dir/src/MontyMole.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\MummyBeetle.cpp.obj -c \"D:\\Project\\My Mario\\src\\MummyBeetle.cpp\"",
+  "file": "D:/Project/My Mario/src/MummyBeetle.cpp",
+  "output": "CMakeFiles/Mario.dir/src/MummyBeetle.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\Muncher.cpp.obj -c \"D:\\Project\\My Mario\\src\\Muncher.cpp\"",
+  "file": "D:/Project/My Mario/src/Muncher.cpp",
+  "output": "CMakeFiles/Mario.dir/src/Muncher.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\Mushroom.cpp.obj -c \"D:\\Project\\My Mario\\src\\Mushroom.cpp\"",
+  "file": "D:/Project/My Mario/src/Mushroom.cpp",
+  "output": "CMakeFiles/Mario.dir/src/Mushroom.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\OneUpMushroom.cpp.obj -c \"D:\\Project\\My Mario\\src\\OneUpMushroom.cpp\"",
+  "file": "D:/Project/My Mario/src/OneUpMushroom.cpp",
+  "output": "CMakeFiles/Mario.dir/src/OneUpMushroom.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\PiranhaPlant.cpp.obj -c \"D:\\Project\\My Mario\\src\\PiranhaPlant.cpp\"",
+  "file": "D:/Project/My Mario/src/PiranhaPlant.cpp",
+  "output": "CMakeFiles/Mario.dir/src/PiranhaPlant.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\QuestionBlock.cpp.obj -c \"D:\\Project\\My Mario\\src\\QuestionBlock.cpp\"",
+  "file": "D:/Project/My Mario/src/QuestionBlock.cpp",
+  "output": "CMakeFiles/Mario.dir/src/QuestionBlock.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\QuestionFireFlowerBlock.cpp.obj -c \"D:\\Project\\My Mario\\src\\QuestionFireFlowerBlock.cpp\"",
+  "file": "D:/Project/My Mario/src/QuestionFireFlowerBlock.cpp",
+  "output": "CMakeFiles/Mario.dir/src/QuestionFireFlowerBlock.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\QuestionMushroomBlock.cpp.obj -c \"D:\\Project\\My Mario\\src\\QuestionMushroomBlock.cpp\"",
+  "file": "D:/Project/My Mario/src/QuestionMushroomBlock.cpp",
+  "output": "CMakeFiles/Mario.dir/src/QuestionMushroomBlock.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\QuestionOneUpMushroomBlock.cpp.obj -c \"D:\\Project\\My Mario\\src\\QuestionOneUpMushroomBlock.cpp\"",
+  "file": "D:/Project/My Mario/src/QuestionOneUpMushroomBlock.cpp",
+  "output": "CMakeFiles/Mario.dir/src/QuestionOneUpMushroomBlock.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\QuestionStarBlock.cpp.obj -c \"D:\\Project\\My Mario\\src\\QuestionStarBlock.cpp\"",
+  "file": "D:/Project/My Mario/src/QuestionStarBlock.cpp",
+  "output": "CMakeFiles/Mario.dir/src/QuestionStarBlock.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\QuestionThreeUpMoonBlock.cpp.obj -c \"D:\\Project\\My Mario\\src\\QuestionThreeUpMoonBlock.cpp\"",
+  "file": "D:/Project/My Mario/src/QuestionThreeUpMoonBlock.cpp",
+  "output": "CMakeFiles/Mario.dir/src/QuestionThreeUpMoonBlock.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\RedKoopaTroopa.cpp.obj -c \"D:\\Project\\My Mario\\src\\RedKoopaTroopa.cpp\"",
+  "file": "D:/Project/My Mario/src/RedKoopaTroopa.cpp",
+  "output": "CMakeFiles/Mario.dir/src/RedKoopaTroopa.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\ResourceManager.cpp.obj -c \"D:\\Project\\My Mario\\src\\ResourceManager.cpp\"",
+  "file": "D:/Project/My Mario/src/ResourceManager.cpp",
+  "output": "CMakeFiles/Mario.dir/src/ResourceManager.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\Rex.cpp.obj -c \"D:\\Project\\My Mario\\src\\Rex.cpp\"",
+  "file": "D:/Project/My Mario/src/Rex.cpp",
+  "output": "CMakeFiles/Mario.dir/src/Rex.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\Sprite.cpp.obj -c \"D:\\Project\\My Mario\\src\\Sprite.cpp\"",
+  "file": "D:/Project/My Mario/src/Sprite.cpp",
+  "output": "CMakeFiles/Mario.dir/src/Sprite.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\Star.cpp.obj -c \"D:\\Project\\My Mario\\src\\Star.cpp\"",
+  "file": "D:/Project/My Mario/src/Star.cpp",
+  "output": "CMakeFiles/Mario.dir/src/Star.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\StoneBlock.cpp.obj -c \"D:\\Project\\My Mario\\src\\StoneBlock.cpp\"",
+  "file": "D:/Project/My Mario/src/StoneBlock.cpp",
+  "output": "CMakeFiles/Mario.dir/src/StoneBlock.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\Swooper.cpp.obj -c \"D:\\Project\\My Mario\\src\\Swooper.cpp\"",
+  "file": "D:/Project/My Mario/src/Swooper.cpp",
+  "output": "CMakeFiles/Mario.dir/src/Swooper.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\ThreeUpMoon.cpp.obj -c \"D:\\Project\\My Mario\\src\\ThreeUpMoon.cpp\"",
+  "file": "D:/Project/My Mario/src/ThreeUpMoon.cpp",
+  "output": "CMakeFiles/Mario.dir/src/ThreeUpMoon.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\Tile.cpp.obj -c \"D:\\Project\\My Mario\\src\\Tile.cpp\"",
+  "file": "D:/Project/My Mario/src/Tile.cpp",
+  "output": "CMakeFiles/Mario.dir/src/Tile.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\WoodBlock.cpp.obj -c \"D:\\Project\\My Mario\\src\\WoodBlock.cpp\"",
+  "file": "D:/Project/My Mario/src/WoodBlock.cpp",
+  "output": "CMakeFiles/Mario.dir/src/WoodBlock.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\YellowKoopaTroopa.cpp.obj -c \"D:\\Project\\My Mario\\src\\YellowKoopaTroopa.cpp\"",
+  "file": "D:/Project/My Mario/src/YellowKoopaTroopa.cpp",
+  "output": "CMakeFiles/Mario.dir/src/YellowKoopaTroopa.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\YoshiCoin.cpp.obj -c \"D:\\Project\\My Mario\\src\\YoshiCoin.cpp\"",
+  "file": "D:/Project/My Mario/src/YoshiCoin.cpp",
+  "output": "CMakeFiles/Mario.dir/src/YoshiCoin.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\main.cpp.obj -c \"D:\\Project\\My Mario\\src\\main.cpp\"",
+  "file": "D:/Project/My Mario/src/main.cpp",
+  "output": "CMakeFiles/Mario.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP @CMakeFiles/Mario.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\Mario.dir\\src\\utils.cpp.obj -c \"D:\\Project\\My Mario\\src\\utils.cpp\"",
+  "file": "D:/Project/My Mario/src/utils.cpp",
+  "output": "CMakeFiles/Mario.dir/src/utils.cpp.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build/raylib_build/raylib",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/raylib.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=gnu99 -o CMakeFiles\\raylib.dir\\raudio.c.obj -c C:\\raylib\\raylib\\src\\raudio.c",
+  "file": "C:/raylib/raylib/src/raudio.c",
+  "output": "raylib_build/raylib/CMakeFiles/raylib.dir/raudio.c.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build/raylib_build/raylib",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/raylib.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=gnu99 -o CMakeFiles\\raylib.dir\\rcore.c.obj -c C:\\raylib\\raylib\\src\\rcore.c",
+  "file": "C:/raylib/raylib/src/rcore.c",
+  "output": "raylib_build/raylib/CMakeFiles/raylib.dir/rcore.c.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build/raylib_build/raylib",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/raylib.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=gnu99 -o CMakeFiles\\raylib.dir\\rmodels.c.obj -c C:\\raylib\\raylib\\src\\rmodels.c",
+  "file": "C:/raylib/raylib/src/rmodels.c",
+  "output": "raylib_build/raylib/CMakeFiles/raylib.dir/rmodels.c.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build/raylib_build/raylib",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/raylib.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=gnu99 -o CMakeFiles\\raylib.dir\\rshapes.c.obj -c C:\\raylib\\raylib\\src\\rshapes.c",
+  "file": "C:/raylib/raylib/src/rshapes.c",
+  "output": "raylib_build/raylib/CMakeFiles/raylib.dir/rshapes.c.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build/raylib_build/raylib",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/raylib.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=gnu99 -o CMakeFiles\\raylib.dir\\rtext.c.obj -c C:\\raylib\\raylib\\src\\rtext.c",
+  "file": "C:/raylib/raylib/src/rtext.c",
+  "output": "raylib_build/raylib/CMakeFiles/raylib.dir/rtext.c.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build/raylib_build/raylib",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/raylib.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=gnu99 -o CMakeFiles\\raylib.dir\\rtextures.c.obj -c C:\\raylib\\raylib\\src\\rtextures.c",
+  "file": "C:/raylib/raylib/src/rtextures.c",
+  "output": "raylib_build/raylib/CMakeFiles/raylib.dir/rtextures.c.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build/raylib_build/raylib",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/raylib.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=gnu99 -o CMakeFiles\\raylib.dir\\utils.c.obj -c C:\\raylib\\raylib\\src\\utils.c",
+  "file": "C:/raylib/raylib/src/utils.c",
+  "output": "raylib_build/raylib/CMakeFiles/raylib.dir/utils.c.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build/raylib_build/raylib/external/glfw/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\context.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\context.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/context.c",
+  "output": "raylib_build/raylib/external/glfw/src/CMakeFiles/glfw.dir/context.c.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build/raylib_build/raylib/external/glfw/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\init.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\init.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/init.c",
+  "output": "raylib_build/raylib/external/glfw/src/CMakeFiles/glfw.dir/init.c.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build/raylib_build/raylib/external/glfw/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\input.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\input.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/input.c",
+  "output": "raylib_build/raylib/external/glfw/src/CMakeFiles/glfw.dir/input.c.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build/raylib_build/raylib/external/glfw/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\monitor.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\monitor.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/monitor.c",
+  "output": "raylib_build/raylib/external/glfw/src/CMakeFiles/glfw.dir/monitor.c.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build/raylib_build/raylib/external/glfw/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\platform.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\platform.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/platform.c",
+  "output": "raylib_build/raylib/external/glfw/src/CMakeFiles/glfw.dir/platform.c.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build/raylib_build/raylib/external/glfw/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\vulkan.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\vulkan.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/vulkan.c",
+  "output": "raylib_build/raylib/external/glfw/src/CMakeFiles/glfw.dir/vulkan.c.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build/raylib_build/raylib/external/glfw/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\window.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\window.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/window.c",
+  "output": "raylib_build/raylib/external/glfw/src/CMakeFiles/glfw.dir/window.c.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build/raylib_build/raylib/external/glfw/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\egl_context.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\egl_context.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/egl_context.c",
+  "output": "raylib_build/raylib/external/glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build/raylib_build/raylib/external/glfw/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\osmesa_context.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\osmesa_context.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/osmesa_context.c",
+  "output": "raylib_build/raylib/external/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build/raylib_build/raylib/external/glfw/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_init.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\null_init.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/null_init.c",
+  "output": "raylib_build/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_init.c.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build/raylib_build/raylib/external/glfw/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_monitor.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\null_monitor.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/null_monitor.c",
+  "output": "raylib_build/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build/raylib_build/raylib/external/glfw/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_window.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\null_window.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/null_window.c",
+  "output": "raylib_build/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_window.c.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build/raylib_build/raylib/external/glfw/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_joystick.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\null_joystick.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/null_joystick.c",
+  "output": "raylib_build/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build/raylib_build/raylib/external/glfw/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_module.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\win32_module.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/win32_module.c",
+  "output": "raylib_build/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_module.c.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build/raylib_build/raylib/external/glfw/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_time.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\win32_time.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/win32_time.c",
+  "output": "raylib_build/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build/raylib_build/raylib/external/glfw/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_thread.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\win32_thread.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/win32_thread.c",
+  "output": "raylib_build/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build/raylib_build/raylib/external/glfw/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_init.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\win32_init.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/win32_init.c",
+  "output": "raylib_build/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build/raylib_build/raylib/external/glfw/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_joystick.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\win32_joystick.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/win32_joystick.c",
+  "output": "raylib_build/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_joystick.c.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build/raylib_build/raylib/external/glfw/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_monitor.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\win32_monitor.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/win32_monitor.c",
+  "output": "raylib_build/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build/raylib_build/raylib/external/glfw/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_window.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\win32_window.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/win32_window.c",
+  "output": "raylib_build/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj"
+},
+{
+  "directory": "D:/Project/My Mario/build/raylib_build/raylib/external/glfw/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -std=c99 -Wall -o CMakeFiles\\glfw.dir\\wgl_context.c.obj -c C:\\raylib\\raylib\\src\\external\\glfw\\src\\wgl_context.c",
+  "file": "C:/raylib/raylib/src/external/glfw/src/wgl_context.c",
+  "output": "raylib_build/raylib/external/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj"
+}
+]
